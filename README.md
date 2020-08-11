@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on IBM Data Science Specialization
+🔭 I’m currently working on IBM Data Science Specialization Capstone Project. And also pursuing Stanford University Machine Learning by Andrew Ng.
 <!--
 **sagsaga/sagsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
